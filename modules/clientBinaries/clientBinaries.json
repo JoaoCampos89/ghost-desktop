@@ -1,15 +1,15 @@
 {
   "clients": {
     "ghostd": {
-      "version": "0.21.1.9",
+      "version": "0.23.0.0",
       "platforms": {
         "linux": {
           "x64": {
             "download": {
-              "url": "https://github.com/ghost-coin/ghost-core/releases/download/v0.21.1.9/ghost-0.21.1.9-x86_64-linux-gnu.tar.gz",
+              "url": "https://github.com/ghost-coin/ghost-core/releases/download/v0.23.0.0/ghost-0.23.0.0-x86_64-linux-gnu.tar.gz",
               "type": "tar",
-              "sha256": "aba235d2c6f8175dec3123d346f4f3ad4f77d7b8249bab3ee9442c406b3f8b40",
-              "bin": "ghost-0.21.1.9/ghostd"
+              "sha256": "f731a30f003227a85abea72ba942e73ae376b2bdd05f466df5db8abb475e9750",
+              "bin": "ghost-0.23.0.0/ghostd"
             },
             "bin": "ghostd",
             "commands": {
@@ -19,7 +19,7 @@
                 ],
                 "output": [
                   "Ghost Core version",
-                  "0.21.1.9"
+                  "0.23.0.0"
                 ]
               }
             }
@@ -28,10 +28,10 @@
         "mac": {
           "x64": {
             "download": {
-              "url": "https://github.com/ghost-coin/ghost-core/releases/download/v0.21.1.9/ghost-0.21.1.9-osx64.tar.gz",
+              "url": "https://github.com/ghost-coin/ghost-core/releases/download/v0.23.0.0/ghost-0.23.0.0-osx64.tar.gz",
               "type": "tar",
-              "sha256": "5abfa526871737a496d8966f2ac44c80c1019b034969cb8d14eed5fa95e91da3",
-              "bin": "ghost-0.21.1.9/ghostd"
+              "sha256": "ada35be6582faf4516eeff1467bf11a56533eb9a786107e19a41b821b89bd588",
+              "bin": "ghost-0.23.0.0/ghostd"
             },
             "bin": "ghostd",
             "commands": {
@@ -41,7 +41,7 @@
                 ],
                 "output": [
                   "Ghost Core version",
-                  "0.21.1.9"
+                  "0.23.0.0"
                 ]
               }
             }
@@ -50,10 +50,10 @@
         "win": {
           "ia32": {
             "download": {
-              "url": "https://github.com/ghost-coin/ghost-core/releases/download/v0.21.2.9/ghost-0.21.1.9-win32.zip",
+              "url": "https://github.com/ghost-coin/ghost-core/releases/download/v0.21.2.9/ghost-0.23.0.0-win32.zip",
               "type": "zip",
-              "sha256": "839b243ae1c02b79b5a791fa54c8c6aff06f566347432d1d9ee382b99ef2973b",
-              "bin": "ghost-0.21.1.9/ghostd.exe"
+              "sha256": "0007877bad86d4800cdf0fa5f571a1d234f2583961901e83bfdd8a6f633cb9ba",
+              "bin": "ghost-0.23.0.0/ghostd.exe"
             },
             "bin": "ghostd.exe",
             "commands": {
@@ -63,17 +63,17 @@
                 ],
                 "output": [
                   "Ghost Core version",
-                  "0.21.1.9"
+                  "0.23.0.0"
                 ]
               }
             }
           },
           "x64": {
             "download": {
-              "url": "https://github.com/ghost-coin/ghost-core/releases/download/v0.21.1.9/ghost-0.21.1.9-win64.zip",
+              "url": "https://github.com/ghost-coin/ghost-core/releases/download/v0.23.0.0/ghost-0.23.0.0-win64.zip",
               "type": "zip",
-              "sha256": "de56ab5ff13f0a5b1799207d799063194ce0e4f39bb13f73257aaf643ccea597",
-              "bin": "ghost-0.21.1.9/ghostd.exe"
+              "sha256": "0007877bad86d4800cdf0fa5f571a1d234f2583961901e83bfdd8a6f633cb9ba",
+              "bin": "ghost-0.23.0.0/ghostd.exe"
             },
             "bin": "ghostd.exe",
             "commands": {
@@ -83,7 +83,7 @@
                 ],
                 "output": [
                   "Ghost Core version",
-                  "0.21.1.9"
+                  "0.23.0.0"
                 ]
               }
             }
